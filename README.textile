@@ -2,4 +2,4 @@ h1. Theme Support (for rails 3) is no longer available with this name.
 
 Given that there is already a gem named theme_support I've decided to change it's name to themes_on_rails (yeah, I didn't put a lot of thought into it).
 
-Go to: http://github.com/lucasefe/themes_on_rails 
+Go to: http://github.com/lucasefe/themes_for_rails 
